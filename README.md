@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá meu caro! Eu sou o Henrique de Souza 👋
 
-<!--
-**Henrique-de-Souza/Henrique-de-Souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>- 🔭 Atualmente trabalho com automações de processos manuais.
+>- 👨‍🎓 Estou estudando mais sobre PySimpleGui, Pyautogui e muito mais.
+>- 📫 Contate-me via instagram @enriquedesu ou email enriquedesuu@gmail.com.
+  <div><br>
+    
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-de-Souza&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+## Tecnologia que mais uso no meu dia:
+<div style="display: inline_block"><br/>
+  <img aling="center "alt="Python3 "src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
