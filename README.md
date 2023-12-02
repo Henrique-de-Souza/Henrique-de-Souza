@@ -1,7 +1,11 @@
 ## Olá meu caro! Eu sou o Henrique de Souza 👋
 
->- 🔭 Atualmente trabalho com automações de processos manuais.
->- 👨‍🎓 Estou estudando mais sobre PySimpleGui, Pyautogui e muito mais.
+>- 🔭 Atualmente tenho procurado me especializar em backend.
+
+>- 👨‍🎓 Estou estudando mais sobre Flask, API's e Banco de dados,
+sem deixar de lado os estudos em outras linguagens para possuir um
+repetório maior para eventuais dificuldades, como HTML, CSS e JS.
+ 
 >- 📫 Contate-me via instagram @enriquedesu ou email enriquedesuu@gmail.com.
   <div><br>
     
