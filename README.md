@@ -1,9 +1,10 @@
 ## Olá meu caro! Eu sou o Henrique de Souza 👋
 
->- 🔭 Atualmente tenho procurado me especializar em backend.
+>- 🔭 Atualmente tenho procurado me especializar em automações, backend e integrações com banco de dados.
 
->- 👨‍🎓 Estou estudando mais sobre Flask, API's e Banco de dados,
-sem deixar de lado os estudos em outras linguagens para possuir um
+>- 👨‍🎓 Venho estudando sobre Flask, API', SQL, Pyautogui e customtkinter para desenvolver interfaces gráficas.
+
+>- 🧑‍💻 Sem deixar de lado os estudos em outras linguagens para possuir um
 repetório maior para eventuais dificuldades, como HTML, CSS e JS.
  
 >- 📫 Contate-me via instagram @enriquedesu ou email enriquedesuu@gmail.com.
